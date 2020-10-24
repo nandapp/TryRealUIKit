@@ -1,3 +1,27 @@
 [
-
+  {
+    "libraryIdentifier" : "7eb017d1437e7015345283194be8d3dc",
+    "format" : "model",
+    "displayName" : "toy_robot_vintage.usdz"
+  },
+  {
+    "libraryIdentifier" : "235418edb0f85121091dfa09329f4143",
+    "format" : "model",
+    "displayName" : "chair_swan.usdz"
+  },
+  {
+    "libraryIdentifier" : "afa4d5fb255f1df6f6cd100680de1f84",
+    "format" : "model",
+    "displayName" : "gramophone.usdz"
+  },
+  {
+    "libraryIdentifier" : "2714fd775c88d932ac30610d789a94ae",
+    "format" : "model",
+    "displayName" : "toy_drummer.usdz"
+  },
+  {
+    "libraryIdentifier" : "9ef0e273dbfb88fbe85ffd9609121f5b",
+    "format" : "model",
+    "displayName" : "tv_retro.usdz"
+  }
 ]
